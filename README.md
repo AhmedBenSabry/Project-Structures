@@ -4,9 +4,6 @@
 - Authentication: JWT + Google/Facebook + FCM
 - Architecture: Clean 3-Tier + DTO Project
 
-## Architecture Diagram
-(هنا هتحط الصورة لما تخلّص رسمها)
-
 ## Folder Structure
 Softic.Solution/
 - Softic (Presentation Layer - Web API)
